@@ -11,7 +11,7 @@
     - [LinkedStack Class](#linkedstack-class)
 4. [How to Use](#4-how-to-use-it)
 
-## 1.overview
+## 1. overview
 
 This project showcases an advanced implementation of essential data structures in Java, emphasizing queue and stack management using singly linked lists. It is designed to handle dynamic datasets efficiently, focusing on optimal data manipulation techniques like insertion, deletion, and traversal.
 This project focuses on implementing algorithms to read and evaluate mathematical expressions in both infix and postfix notations. Leveraging the concepts of stacks and queues, the project offers practical experience in parsing and computing mathematical expressions. 
