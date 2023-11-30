@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Project Overview](#Overview)
 2. [PThe Shunting Yard Algorithm and Notations](#The-Shunting-Yard-Algorithm-and-Notations)
-3. [Implementation Details/Classes](#implementation-details)
+3. [Implementation Details/Classes](#Classes)
     - [Main Class](#Main-Class)
     - [Node Class](#Node-Class)
     - [SinglyLinkedList Class](#SinglyLinkedList-Class)
