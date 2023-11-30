@@ -9,7 +9,7 @@
    - [SinglyLinkedList Class](#singlylinkedlist-class)
    - [LinkedQueue Class](#linkedqueue-class)
    - [LinkedStack Class](#linkedstack-class)
-4. [How to Use](#how-to-use-it)
+4. [How to Use It](#how-to-use-it)
 
 ## 1.overview
 
