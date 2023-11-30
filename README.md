@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Project Overview](#1-overview)
 2. [The Shunting Yard Algorithm and Notations](#2-the-shunting-yard-algorithm-and-notations)
-3. [OOP Concepts Used] (#3-Concepts Used]
+3. [OOP Concepts Used](#3-Concepts-Used)
 4.  [Implementation Details/Classes](#4-classes)
     - [Main Class](#main-class)
     - [Node Class](#node-class)
