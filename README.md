@@ -1,15 +1,15 @@
 # Stack and Queue-Based Expression Parsing
 
 ## Table of Contents
-1. [Project Overview](#Overview)
-2. [PThe Shunting Yard Algorithm and Notations](#The-Shunting-Yard-Algorithm-and-Notations)
-3. [Implementation Details/Classes](#Classes)
-    - [Main Class](#Main-Class)
-    - [Node Class](#Node-Class)
-    - [SinglyLinkedList Class](#SinglyLinkedList-Class)
-    - [LinkedQueue Class](#LinkedQueue-Class)
-    -  [LinkedStack Class](#LinkedStack-Class)
-4. [How to Use](#How-to-Use-It)
+1. [Project Overview](#overview)
+2. [The Shunting Yard Algorithm and Notations](#the-shunting-yard-algorithm-and-notations)
+3. [Implementation Details/Classes](#implementation-details-classes)
+   - [Main Class](#main-class)
+   - [Node Class](#node-class)
+   - [SinglyLinkedList Class](#singlylinkedlist-class)
+   - [LinkedQueue Class](#linkedqueue-class)
+   - [LinkedStack Class](#linkedstack-class)
+4. [How to Use](#how-to-use)
 
 ## 1. Overview
 
