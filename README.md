@@ -3,13 +3,14 @@
 ## Table of Contents
 1. [Project Overview](#1-overview)
 2. [The Shunting Yard Algorithm and Notations](#2-the-shunting-yard-algorithm-and-notations)
-3. [Implementation Details/Classes](#3-classes)
+3. [OOP Concepts Used] (#3-Concepts Used]
+4.  [Implementation Details/Classes](#4-classes)
     - [Main Class](#main-class)
     - [Node Class](#node-class)
     - [SinglyLinkedList Class](#singlylinkedlist-class)
     - [LinkedQueue Class](#linkedqueue-class)
     - [LinkedStack Class](#linkedstack-class)
-4. [How to Use](#4-how-to-use-it)
+5.[How to Use](#5-how-to-use-it)
 
 ## 1. Overview
 
@@ -26,7 +27,10 @@ In infix notation, operators are placed between operands. For instance, "1 + 2 *
 ### 2. Postfix Notation
 Also known as reverse polish notation, postfix places the operator after the operands, e.g., "1 2 +". This notation eliminates the need for parentheses and operator precedence.
 
-## 3. Classes
+## 3. Concepts Used
+Encapsulation, abstraction, inheritance, polymorphism, and interfaces. 
+
+## 4. Classes
 
 ### Main Class
 
@@ -98,7 +102,6 @@ Also known as reverse polish notation, postfix places the operator after the ope
   - `peek()`: Retrieves the top element without removing it.
   - `size()`: Counts the elements present in the stack.
   - `isEmpty()`: Verifies if the stack has no elements.
-
 
 
 ## 4. How to Use It
