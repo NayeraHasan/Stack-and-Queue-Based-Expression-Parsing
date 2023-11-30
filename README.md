@@ -1,6 +1,3 @@
-# xxxx
-
-
 # Stack and Queue-Based Expression Parsing
 
 ## Table of Contents
